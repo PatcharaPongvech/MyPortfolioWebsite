@@ -1,1 +1,6 @@
-# MyPortfolioWebsite
+# My Portfolio Website
+
+เว็บไซต์ที่ผมทำขึ้นมาเพื่อเป็นโปรเจกต์ที่ใช้ส่งในการอบรมในโครงการ GTC : Web Design Skills for University Applicants
+
+## สิ่งที่ได้รับ
+ทำให้ผมได้เรียนรู้การใช้ HTML และ CSS ในการสร้างเว็บไซต์เบื้องต้น และเป็นจุดเริ่มต้นที่ทำให้ผมเริ่มศึกษา JavaScript ด้วยตนเอง
